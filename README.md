@@ -8,5 +8,5 @@ Can be used with simple copy and paste, will fit for all 3 versions of the php-l
 
 Some short previews:
 
-![Style for the php-login script][img/php_login_script_01.png?raw=true]
-![Style for the php-login script][img/php_login_script_02.png?raw=true]
+![Style for the php-login script][./img/php_login_script_01.png?raw=true]
+![Style for the php-login script][./img/php_login_script_02.png?raw=true]
