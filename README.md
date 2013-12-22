@@ -1,6 +1,6 @@
 # php-login-styles
 
-*This is just a placeholder, the project will start in early 2014*
+*This is just a placeholder, the project will start in early 2014.*
 
 Beautiful user interfaces / themes / templates for the different version of the php-login project. Find the php-login
 project portal site here: http://www.php-login.net and the 4 versions here:
