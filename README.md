@@ -1,5 +1,7 @@
 # php-login-styles
 
+*This is just a placeholder, the project will start in early 2014*
+
 Beautiful user interfaces / themes / templates for the different version of the php-login project. Find the php-login
 project portal site here: http://www.php-login.net and the 4 versions here:
 
@@ -17,8 +19,6 @@ project portal site here: http://www.php-login.net and the 4 versions here:
    mail sending via PHPMailer (SMTP or PHP's mail() function/linux sendmail), user profile pages, public user profiles,
    gravatars and local avatars, account upgrade/downgrade etc., login via Facebook, Composer integration, etc.
    https://github.com/panique/php-login
-
-**This is just a placeholder, the project will start in early 2014**
 
 ## Some short previews:
 
