@@ -24,3 +24,7 @@ Some short previews:
 
 ![Style for the php-login script](img/php_login_script_01.png)
 ![Style for the php-login script](img/php_login_script_02.png)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-login-styles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
