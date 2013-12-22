@@ -20,11 +20,12 @@ project portal site here: http://www.php-login.net and the 4 versions here:
 
 **This is just a placeholder, the project will start in early 2014**
 
-Some short previews:
+## Some short previews:
 
 ![Style for the php-login script](img/php_login_script_01.png)
 ![Style for the php-login script](img/php_login_script_02.png)
 
+## Project stats
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/panique/php-login-styles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
